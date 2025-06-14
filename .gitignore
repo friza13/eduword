@@ -1,0 +1,15 @@
+# File hasil kompilasi
+*.o
+*.out
+*.exe
+*.dll
+*.so
+
+# Direktori build (tempat hasil kompilasi biasanya disimpan)
+build/
+bin/
+
+# File yang dibuat oleh IDE atau editor
+.vscode/
+.idea/
+*.swp

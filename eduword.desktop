@@ -1,0 +1,10 @@
+[Desktop Entry]
+Version=1.0
+Name=EduWord
+Comment=Word processor for Linux
+Exec=eduword %f
+Icon=eduword
+Terminal=false
+Type=Application
+Categories=Office;WordProcessor;
+MimeType=application/rtf;text/plain;text/html; 
